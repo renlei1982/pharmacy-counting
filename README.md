@@ -8,7 +8,7 @@ The running of the solution requires no additional library, environment, or depe
 
 The code was tested on a computer with Windows Subsystem for Linux (Ubuntu 16.04.2 LTS). The two bash files 'run.sh' and 'run tests.sh' worked well on the test1 coming with the challenge and also my own test2 as shown in the folder. I also tested the large dataset containing over 24 million records over [here](https://drive.google.com/file/d/1fxtTLR_Z5fTO-Y91BnKOQd6J0VC9gPO3/view), it worked but I didn't have a way to validate the result for such a large file.
 
-![](http://https://drive.google.com/file/d/1JwA3h2CSGU3OQ-I93VlV_vnwUo7I29IG/view)
+![](https://raw.githubusercontent.com/renlei1982/pharmacy-counting/master/testpass.PNG)
 
 
 # Approach
